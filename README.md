@@ -26,27 +26,5 @@
 функциональность в текущую архитектуру?
 Добавил бы модели для напоминания (Reminder) и соотвествующие ему сервисы, также расширил бы MainWindow, чтобы показывалось уведомление, либо же создал бы совершенно новое окно, чтобы уже оно выскакивало в качестве уведомления.
 
-Тажке из-за невозможности записать видео на компьютере будут предоставлены лишь скриншоты работы программы
 
-Главное окно:
-<img width="1080" height="644" alt="image" src="https://github.com/user-attachments/assets/5d01a2ee-90c3-47bb-bfba-2c89b2b3495b" />
 
-Окно добавления курса:
-<img width="586" height="567" alt="image" src="https://github.com/user-attachments/assets/e0b5f624-c4d7-4b11-a2fa-a339d6f62360" />
-
-Окно редактирования курса: 
-<img width="1090" height="790" alt="image" src="https://github.com/user-attachments/assets/17ec8605-f38b-4570-9276-a1dcfe3ae88c" />
-
-Поиск по названию:
-<img width="1085" height="220" alt="image" src="https://github.com/user-attachments/assets/66b45572-d2ea-42fa-a12e-c763ac0d0ce1" />
-
-Кнопка удаления курса:
-<img width="1086" height="644" alt="image" src="https://github.com/user-attachments/assets/76ed022e-3f1e-4c3b-9aff-41c0740ddeac" />
-
-<img width="1087" height="317" alt="image" src="https://github.com/user-attachments/assets/a0ca32c2-cc71-4af5-8619-de57cea30f66" />
-
-Кнопка быстрого прогресса:
-<img width="1086" height="646" alt="image" src="https://github.com/user-attachments/assets/e7a4d6c0-6a75-4927-9629-95a0c5793ec0" />
-
-Фильтрация по категории:
-<img width="1085" height="291" alt="image" src="https://github.com/user-attachments/assets/7a0aedb6-b90d-4999-911c-4ff34c4e18d5" />
